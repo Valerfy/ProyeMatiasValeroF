@@ -1,6 +1,4 @@
-```php
 <?php
-
 function burbuja($arreglo) {
 
     $n = count($arreglo);
